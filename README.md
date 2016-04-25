@@ -2,6 +2,8 @@
 
 > Use Facebook SDK version 4 in Cordova projects
 
+[![npm version](https://badge.fury.io/js/cordova-plugin-facebook4.svg)](https://badge.fury.io/js/cordova-plugin-facebook4)
+
 ## Installation
 
 Make sure you've registered your Facebook app with Facebook and have an `APP_ID` [https://developers.facebook.com/apps](https://developers.facebook.com/apps).
